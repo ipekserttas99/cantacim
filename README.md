@@ -1,2 +1,4 @@
-# cantacim
-2021 Gradution Project.
+# Çantacım e-Ticaret Sitesi (Mezuniyet Projesi)
+
+ASP.NET kullanarak çanta satışı gerçekleşen bir e-ticaret sitesi yapıldı. Bu e-ticaret sitesinde kullanıcı üyelik bilgilerini, ürün kategorilerini ve ürün bilgilerini tutan SQLite veritabanı kullanıldı. Ürün kategorilerini, bilgilerini düzenleyip silebilecek, yeni kategori ve ürün eklenmesini sağlayacak, kullanıcı ve admin rollerinin listesini görüntülenmesini sağlayacak yani kısacası e-ticaret sitesinin işleyişinden sorumlu Admin eklendi. Giriş, Üye ol, Şifremi unuttum, kullanıcı hesabının onaylanması, kullanıcı oturumunu kapama, onay mailinin gönderilmesi kısımları eklenerek üyelik işlemleri tanımlandı. Dinamik kategori menüsü, ürün detay sayfası, ürün filtrelemesi ve araması eklendi. Sipariş süreci ve kredi kartı entegrasyonu kısımları eklendi. Satın alım sonrası sipariş listesi kısmı eklendi. Tasarımı ile de kullanıcı dostu bir e-ticaret sitesi kuruldu.
+
