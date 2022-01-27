@@ -1,0 +1,12 @@
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\bin\Debug\net5.0\shopapp.entity.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\bin\Debug\net5.0\shopapp.entity.dll
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\bin\Debug\net5.0\ref\shopapp.entity.dll
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\bin\Debug\net5.0\shopapp.entity.pdb
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.dll
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\ref\shopapp.entity.dll
+C:\Users\Acer\OneDrive\Masaüstü\shopappbenim\shopapp.entity\obj\Debug\net5.0\shopapp.entity.pdb

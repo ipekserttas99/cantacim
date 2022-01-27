@@ -1,0 +1,15 @@
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.deps.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\bin\Debug\netstandard2.0\shopapp.data.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb
+C:\Users\Acer\OneDrive\Masaüstü\ders notları\shopappbenim\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.dll
+C:\Users\Acer\OneDrive\Masaüstü\ders notları\shopappbenim\shopapp.business\obj\Debug\netstandard2.0\shopapp.business.pdb

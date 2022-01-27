@@ -1,0 +1,2 @@
+C:\Users\Acer\OneDrive\Masaüstü\ders notları\shopappbenim\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Acer\OneDrive\Masaüstü\ders notları\shopappbenim\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
